@@ -21,5 +21,5 @@ sudo apt install ros-${ROS_DISTRO}-rviz2 \
 ```
 ## Related YouTube Video
 #### Explains how to convert SolidWorks to URDF for ROS2 & How to use this package.
-#### Link: 
+#### Link: https://www.youtube.com/watch?v=JdZJP3tGcA4&feature=youtu.be
 
